@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PBORiabukha
-- 👀 I’m interested in Clojrue
+- 👀 I’m interested in Clojure
 - 🌱 I’m currently learning a lot of programming languages
 - 💞️ I’m looking to collaborate on Lisp
 - 📫 How to reach me +41796310091
